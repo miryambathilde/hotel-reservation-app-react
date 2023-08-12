@@ -1,6 +1,6 @@
 # Hotel Reservation App
 
-Welcome to the Hotel Reservation App! This project is a web application designed for managing hotel reservations. It provides a user-friendly interface for customers to book rooms, view available amenities, and manage their reservations. The app is built using modern web technologies and frameworks.
+Welcome to the Hotel Reservation App! This project is a web application designed for managing hotel reservations. The app is built using modern web technologies and frameworks.
 
 ## Dependencies
 
