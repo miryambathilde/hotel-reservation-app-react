@@ -1,6 +1,7 @@
 import { useQuery } from "@tanstack/react-query";
 import { useRoute } from "wouter";
 import { Card, CardActions, CardContent, CardMedia, Typography } from "@mui/material";
+import BookingForm from "./BookingForm";
 
 
 const fecthHotel = async (id) => {
@@ -47,7 +48,8 @@ export default function HotelDetails () {
 				</Typography >
 			</CardContent>
 			<CardActions>
-				{/* formulario */ }
+				{/* hotel props  - booking form*/ }
+				<BookingForm hotel={ hotel } />
 			</CardActions>
 		</Card>
 	);
