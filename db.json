@@ -1,0 +1,64 @@
+{
+	"hotels": [
+		{
+			"id": 1,
+			"name": "Mandarin Oriental Ritz",
+			"description": "Lujoso hotel ubicado en un palacio de estilo belle époque en el famoso Triángulo del Arte de Madrid, ha acogido a miembros de la realeza, a dignatarios y a algunos de los huéspedes más distinguidos de todo el mundo en sus más de 110 años de existencia.",
+			"image": "/img/hotel1.jpg"
+		},
+		{
+			"id": 2,
+			"name": "Grand Hotel Splendid",
+			"description": "Un lugar de lujo y elegancia que ofrece vistas panorámicas de la ciudad desde sus lujosas habitaciones. El hotel cuenta con un spa de clase mundial y restaurantes galardonados.",
+			"image": "/img/hotel2.jpg"
+		},
+		{
+			"id": 3,
+			"name": "Riviera Paradise Resort",
+			"description": "Un oasis tropical junto a la playa con todas las comodidades que puedas imaginar. Relájate en nuestras piscinas, disfruta de deportes acuáticos emocionantes y deleita tu paladar en nuestros restaurantes gourmet.",
+			"image": "/img/hotel3.jpg"
+		},
+		{
+			"id": 4,
+			"name": "Elegance Suites",
+			"description": "Un refugio de tranquilidad en el corazón de la ciudad. Nuestras suites bellamente decoradas ofrecen la mezcla perfecta de comodidad y estilo. A poca distancia de las principales atracciones urbanas.",
+			"image": "/img/hotel4.jpg"
+		},
+		{
+			"id": 5,
+			"name": "Mountain View Lodge",
+			"description": "Sumérgete en la serenidad de las montañas. Nuestro lodge ofrece alojamiento acogedor, vistas impresionantes y acceso directo a rutas de senderismo y actividades al aire libre.",
+			"image": "/img/hotel5.jpg"
+		},
+		{
+			"id": 6,
+			"name": "Seaside Paradise Hotel",
+			"description": "Un escape junto al mar con habitaciones con vista al océano y una amplia gama de comodidades. Disfruta de la brisa marina y relájate en nuestras playas de arena blanca.",
+			"image": "/img/hotel6.jpg"
+		},
+		{
+			"id": 7,
+			"name": "Historic Grand Inn",
+			"description": "Un hotel con encanto en un edificio histórico restaurado. Disfruta de la arquitectura clásica y la elegancia de antaño, junto con comodidades modernas para una estancia inolvidable.",
+			"image": "/img/hotel7.jpg"
+		},
+		{
+			"id": 8,
+			"name": "Serenity Valley Retreat",
+			"description": "Retiro tranquilo en medio de la naturaleza. Con cabañas acogedoras y vistas panorámicas, es el lugar perfecto para desconectar y rejuvenecer en un entorno sereno.",
+			"image": "/img/hotel8.jpg"
+		},
+		{
+			"id": 9,
+			"name": "Urban Skyline Towers",
+			"description": "Rascacielos de lujo en el centro de la ciudad. Disfruta de impresionantes vistas de la metrópolis desde nuestras suites de alta gama. Acceso cercano a tiendas, restaurantes y entretenimiento.",
+			"image": "/img/hotel9.jpg"
+		},
+		{
+			"id": 10,
+			"name": "Enchanted Forest Lodge",
+			"description": "Sumérgete en la magia del bosque. Nuestro lodge ofrece alojamiento rodeado de naturaleza, con senderos encantadores y un ambiente tranquilo que te hará sentir en un cuento de hadas.",
+			"image": "/img/hotel10.jpg"
+		}
+	]
+}
