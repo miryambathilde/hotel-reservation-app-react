@@ -20,7 +20,7 @@ const fecthHotels = async () => {
  * Function to render a list of hotels.
 **/
 
-function HotelList () {
+export default function HotelList () {
 	// Fetch hotels data using useQuery hook
 	const {
 		data: hotels,
@@ -45,7 +45,7 @@ function HotelList () {
 			</Typography >
 			<Stack spacing={ 2 }>
 				{ hotels.map((hotel) => (
-					<Link key={ hotel.id } href="`/hotel/${hotel.id}`">
+					<Link key={ hotel.id } href={ `/hotel/${ hotel.id }` }>
 						<Card sx={ { maxWidth: 345, backgroundColor: "e8e8e8" } }>
 							<CardMedia
 								sx={ { height: 140 } }
@@ -70,5 +70,3 @@ function HotelList () {
 		</>
 	);
 }
-
-export default HotelList;
